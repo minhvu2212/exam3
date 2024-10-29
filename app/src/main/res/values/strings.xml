@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exam3</string>
+    <string name="search_hint">Tìm kiếm sinh viên...</string>
+    <string name="student_name_hint">Họ và tên sinh viên</string>
+    <string name="student_id_hint">Mã số sinh viên</string>
+</resources>
